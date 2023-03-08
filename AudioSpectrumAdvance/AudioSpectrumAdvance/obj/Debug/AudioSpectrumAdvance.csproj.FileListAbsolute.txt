@@ -1,0 +1,59 @@
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.exe.config
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.exe
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.pdb
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Bass.Net.dll
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csprojResolveAssemblyReference.cache
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Properties.Resources.resources
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.GenerateResource.Cache
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.exe
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.pdb
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.baml
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.g.cs
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance_MarkupCompile.cache
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.g.resources
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Form1.resources
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.exe.config
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.exe
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.pdb
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csprojAssemblyReference.cache
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.baml
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.g.cs
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance_MarkupCompile.cache
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.g.resources
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Form_spector.resources
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Properties.Resources.resources
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.GenerateResource.cache
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.CoreCompileInputs.cache
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.CopyComplete
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.exe
+C:\Users\Mila7\Downloads\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.pdb
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.exe.config
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.exe
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.pdb
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csprojAssemblyReference.cache
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.baml
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.g.cs
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance_MarkupCompile.cache
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.g.resources
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Form_spector.resources
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Properties.Resources.resources
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.GenerateResource.cache
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.CoreCompileInputs.cache
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.CopyComplete
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.exe
+C:\Users\Mila7\source\repos\VKR_project\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.pdb
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.exe.config
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.exe
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.pdb
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csprojAssemblyReference.cache
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.baml
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.g.cs
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance_MarkupCompile.cache
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.g.resources
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Form_spector.resources
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Properties.Resources.resources
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.GenerateResource.cache
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.CoreCompileInputs.cache
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.CopyComplete
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.exe
+C:\Users\Mila7\source\repos\VKR_project10_4\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.pdb
